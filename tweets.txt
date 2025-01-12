@@ -1,0 +1,34 @@
+Positive Tweets:
+1. "I just got promoted at work! Feeling so grateful and happy today! 🎉🙌 #CareerGoals"
+2. "The weather is amazing, perfect for a hike. 🌞🏞️ Love these sunny days!"
+3. "Just finished my first marathon! What an incredible experience! 🏃‍♂️✨ #FeelingProud"
+4. "Finally got tickets to the concert I’ve been dreaming about! 🥳🎶 Can’t wait!"
+5. "This coffee shop is the best! The cappuccino is amazing. ☕❤️ Highly recommend!"
+
+Negative Tweets:
+6. "Missed my bus again...ugh, Monday mornings are the worst. 😩🚌 #LateToWork"
+7. "The restaurant service was terrible. Waited an hour and the food was cold. 😠"
+8. "Feeling so overwhelmed with everything going on. Need a break. 😞"
+9. "Why is the internet so slow today?! I can’t get anything done. 😤 #Frustrated"
+10. "Lost my wallet today. Could this day get any worse? 😡💸"
+
+Neutral Tweets:
+11. "Just saw a cat crossing the street. 🐈 Wonder where it’s going. #RandomThoughts"
+12. "The meeting starts at 2 PM. Please don’t be late. #WorkUpdates"
+13. "Heading to the grocery store. Need to stock up on snacks for the weekend."
+14. "Watched a movie last night. It was okay, not great but not bad either."
+15. "Traffic on the highway is pretty normal today. No major delays."
+
+Mixed or Ambiguous Tweets:
+16. "Finally got the new phone I wanted, but the setup is such a hassle. 😅📱"
+17. "The cake looked beautiful, but it didn’t taste as good as I hoped. 🎂🤷‍♀️"
+18. "My team won the game, but it was so stressful to watch. 🏀😬 #MixedFeelings"
+19. "The new job is challenging but exciting at the same time. Feeling hopeful! 💼✨"
+20. "Got rained on during my morning jog. At least it cooled me down! 🌧️🏃‍♀️"
+
+Slang and Emojis:
+21. "OMG this pizza is lit 🔥🍕 Best I’ve had in a while! #FoodieLife"
+22. "Bruh, this Wi-Fi is trippin'. Can’t even load a single page. 🤦‍♂️ #Annoyed"
+23. "LOL my dog just ran into a wall chasing a toy. 🤣🐕 #DogsAreTheBest"
+24. "Y'all, this concert was EVERYTHING! 🥰🎤✨ Best night of my life!"
+25. "Smh, they still haven’t fixed this pothole. 🤔🤬 #CityIssues"
